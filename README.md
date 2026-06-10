@@ -4,7 +4,7 @@ PhD candidate in **Electrical & Computer Engineering** at the University of Utah
 
 🔭 Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃
 🎯 Seeking: Summer 2027 internship in silicon photonics, optical interconnect, or mmWave/RF hardware
-🌐 Website: https://shadimirmohammadi-collab.github.io
+
 
 ### EM Simulation & Device Design
 ![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=flat&logoColor=black)
