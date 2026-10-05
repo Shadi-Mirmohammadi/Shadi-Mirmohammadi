@@ -1,14 +1,13 @@
-## Hi, I'm Shadi 👋
+## Shadi Mirmohammadi
 
-PhD candidate in **Electrical & Computer Engineering** at the University of Utah, working on **terahertz / mmWave device design**. I build reconfigurable metasurface modulators on wide-bandgap semiconductors, simulate them with full-wave electromagnetics, and write the Python that turns raw simulation data into publication-grade results.
+Ph.D. student in **Electrical & Computer Engineering** at the University of Utah, working on **terahertz / mmWave device design**. I design optically tunable metasurfaces on wide-bandgap semiconductors with full-wave electromagnetic simulation, fabricate them in the cleanroom, and measure them from 0.2 to 1 THz.
 
-🔭 Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃
-🎯 Seeking: Summer 2027 internship in silicon photonics, optical interconnect, or mmWave/RF hardware
+Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃
+Seeking: Summer 2027 internship in silicon photonics, optical interconnect, or mmWave/RF hardware
 
 
 ### EM Simulation & Device Design
 ![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=flat&logoColor=black)
-![COMSOL](https://img.shields.io/badge/COMSOL-1C3C7A?style=flat)
 ![S-Parameters](https://img.shields.io/badge/S--Parameters-4B286D?style=flat)
 ![Metasurfaces](https://img.shields.io/badge/Metasurface_Design-006837?style=flat)
 
