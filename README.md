@@ -2,7 +2,7 @@
 
 Ph.D. student in **Electrical & Computer Engineering** at the University of Utah, working on **terahertz / mmWave device design**. I design optically tunable metasurfaces on wide-bandgap semiconductors with full-wave electromagnetic simulation, fabricate them in the cleanroom, and measure them from 0.2 to 1 THz.
 
-Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃
+Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃ (poster at IRMMW-THz 2026, Salt Lake City, October 2026)
 Seeking: Summer 2027 internship in silicon photonics, optical interconnect, or mmWave/RF hardware
 
 
