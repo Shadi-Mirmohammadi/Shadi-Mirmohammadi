@@ -20,6 +20,14 @@ Currently: optically tunable THz modulators on Fe-doped β-Ga₂O₃ (oral talk 
 ![THz](https://img.shields.io/badge/THz_Spectroscopy-D9A93D?style=flat&logoColor=black)
 ![Semiconductors](https://img.shields.io/badge/Wide--Bandgap_Semiconductors-444444?style=flat)
 
+### Code
+- [thz-transmission-analysis](https://github.com/Shadi-Mirmohammadi/thz-transmission-analysis): CW-THz transmission, Fabry–Pérot slab fit, measured vs HFSS
+- [thz-scan-automation](https://github.com/Shadi-Mirmohammadi/thz-scan-automation): automated scans on a TOPTICA cw-THz system
+- [thz-metasurface-analysis](https://github.com/Shadi-Mirmohammadi/thz-metasurface-analysis): HFSS post-processing for the THz metasurface absorber
+- [eit-metasurface-fit](https://github.com/Shadi-Mirmohammadi/eit-metasurface-fit): coupled-resonator fit of an EIT metasurface
+- [gso-pl-analysis](https://github.com/Shadi-Mirmohammadi/gso-pl-analysis): GdScO₃ photoluminescence analysis
+- [ellipsometry-nk-extraction](https://github.com/Shadi-Mirmohammadi/ellipsometry-nk-extraction): n and k from ellipsometry exports
+
 ### Connect
 [![Website](https://img.shields.io/badge/Website-be0000?style=flat&logo=googlechrome&logoColor=white)](https://shadi-mirmohammadi.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shadi-mirmohammadi)
